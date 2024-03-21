@@ -8,9 +8,9 @@
   * pip install -r requirements.txt
 1. Configuration
 <b>Clone the repository:</b>
-  * git clone https://github.com/your-username/your-repo.git
+  * git clone https://github.com/kili66/your-repo.git
   * cd your-repo
-2. Create a virtual environment:
+2. Create a virtual environment:https://github.com/Kili66/Gemini-LLM-Application_Image_question
   * python -m venv venv
    1. Activate the virtual environment:
       source venv/bin/activate
